@@ -36,17 +36,17 @@ WHY KYP USING WEB 3.0
 IN PERSPECTIVE OF USERS
 
 Enhanced Control and Security of Personal Health Data
-      Patient Data Ownership:
-              * Autonomous Access: Web 3.0 technologies enable patients to have direct ownership and control over their health data. Through decentralized platforms, patients can manage who accesses their                                            information, when, and for what purposes, reducing dependency on centralized entities.
-              * Personal Data Management: Patients can easily update and manage their health information in real-time, ensuring accuracy and relevance of their records.
-      Increased Data Security:
-              * Blockchain Integrity: Blockchain technology provides immutable and tamper-proof records. Once health data is entered, it cannot be altered without leaving a trace, significantly reducing the risk                                         of data breaches and unauthorized access.
+     - Patient Data Ownership:
+              *  Autonomous Access: Web 3.0 technologies enable patients to have direct ownership and control over their health data. Through decentralized platforms, patients can manage who accesses their                                            information, when, and for what purposes, reducing dependency on centralized entities.
+              *  Personal Data Management: Patients can easily update and manage their health information in real-time, ensuring accuracy and relevance of their records.
+     - Increased Data Security:
+              *  Blockchain Integrity: Blockchain technology provides immutable and tamper-proof records. Once health data is entered, it cannot be altered without leaving a trace, significantly reducing the risk                                         of data breaches and unauthorized access.
               *  Advanced Encryption: Web 3.0 leverages sophisticated encryption methods to safeguard data during transmission and storage, enhancing overall privacy.
-      Transparent Data Usage:
-              * Audit Trails: Blockchain’s transparent nature allows patients to track who accessed their data and for what reasons. This transparency fosters trust and ensures that data usage complies with                                     patient consent and privacy preferences.
-      Informed Consent and Autonomy:
+     - Transparent Data Usage:
+              *  Audit Trails: Blockchain’s transparent nature allows patients to track who accessed their data and for what reasons. This transparency fosters trust and ensures that data usage complies with                                     patient consent and privacy preferences.
+     - Informed Consent and Autonomy:
               * Smart Contracts: Patients can use smart contracts to automate and enforce consent agreements. This ensures that their health data is used in accordance with their preferences, with automated                                         enforcement reducing the risk of accidental or unauthorized use.
-      Interoperability and Accessibility:
+      - Interoperability and Accessibility:
               * Seamless Integration: Web 3.0 enables interoperability among various healthcare systems. Patients can integrate their health information from multiple sources into a single, secure platform,                                             facilitating better coordination of care and personal health management.
               
 In essence, the major advantage for users in a Web 3.0 KYP framework is the empowerment through control, security, and transparency regarding their personal health data, which aligns with the growing demand for privacy and patient-centric care.
