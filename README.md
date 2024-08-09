@@ -53,7 +53,7 @@ Interoperability and Accessibility:
 In essence, the major advantage for users in a Web 3.0 KYP framework is the empowerment through control, security, and transparency regarding their personal health data, which aligns with the growing demand for privacy and patient-centric care.
 
 
-A SPECIAL THANKS TO shamil-t for the repository providing
+A SPECIAL THANKS TO shamil-t for letting us to clone some of your  repository codes
 
 
 TECH STACK-
