@@ -53,6 +53,9 @@ Interoperability and Accessibility:
 In essence, the major advantage for users in a Web 3.0 KYP framework is the empowerment through control, security, and transparency regarding their personal health data, which aligns with the growing demand for privacy and patient-centric care.
 
 
+A SPECIAL THANKS TO shamil-t for the repository providing
+
+
 TECH STACK-
 * React.js
 * solidity
@@ -60,3 +63,50 @@ TECH STACK-
 * node.js
 * css
 * html
+
+
+🆁🅴🆀🆄🅸🆁🅴🅼🅴🅽🆃🆂
+
+1.Install nodeJs
+
+* https://nodejs.org/en/download/
+
+2.Install Ganache
+
+* https://www.trufflesuite.com/ganache
+
+3. Download IPFS (kubo)
+
+* https://dist.ipfs.tech/#go-ipfs
+
+4.Add Metamask Extension in Browser
+
+* https://chrome.google.com/webstore/detail/metamask/nkbihfbeogaeaoehlefnkodbefgpgknn?hl=en-US
+
+5. open cmd in project directory
+```
+npm install --force
+
+```
+
+6.open cmd/terminal as Administrator and type
+```
+npm install -g truffle
+
+```
+
+7. open Ganache
+
+* New Workspace
+* AddProject
+* Select truffle-config.js in Project Directory
+* Save Workspace
+
+8. Compile and migrate Contracts
+```
+truffle migrate
+```
+9. truffle migrate
+ ```
+npm start
+```
